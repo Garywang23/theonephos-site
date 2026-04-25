@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">OI logo final</title>
+  <desc id="desc">A geometric OI logo with a green central O, three navy outer arcs, and three teal connection nodes.</desc>
+  <rect id="background" width="1000" height="1000" fill="#FFFFFF"/>
+  <path id="center_o" fill="#18A07A" fill-rule="evenodd" d="
+    M 730 500
+    A 230 230 0 1 1 270 500
+    A 230 230 0 1 1 730 500
+    Z
+    M 615 500
+    A 115 115 0 1 0 385 500
+    A 115 115 0 1 0 615 500
+    Z"/>
+  <path id="outer_arc_top" d="M 562.235 165.744 A 340 340 0 0 1 806.163 647.866" fill="none" stroke="#123D82" stroke-width="42" stroke-linecap="round"/>
+  <path id="outer_arc_left" d="M 193.837 647.866 A 340 340 0 0 1 437.765 165.744" fill="none" stroke="#123D82" stroke-width="42" stroke-linecap="round"/>
+  <path id="outer_arc_bottom" d="M 733.880 746.780 A 340 340 0 0 1 266.120 746.780" fill="none" stroke="#123D82" stroke-width="42" stroke-linecap="round"/>
+  <circle id="node_top" cx="500" cy="160" r="34.5" fill="#0F7A86"/>
+  <circle id="node_left" cx="240" cy="690" r="34.5" fill="#0F7A86"/>
+  <circle id="node_right" cx="760" cy="690" r="34.5" fill="#0F7A86"/>
+</svg>

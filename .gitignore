@@ -1,0 +1,5 @@
+_incoming_web/
+_static-server.js
+.wrangler/
+.DS_Store
+Thumbs.db
