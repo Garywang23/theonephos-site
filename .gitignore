@@ -1,5 +1,6 @@
 _incoming_web/
 _static-server.js
+_deploy_pages/
 .wrangler/
 .DS_Store
 Thumbs.db
