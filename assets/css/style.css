@@ -345,7 +345,10 @@ section:last-child p:last-child{margin-bottom:0}
     grid-template-columns:1fr;
   }
   .hero{padding:58px 0 62px}
-  .hero h1{font-size:38px}
+  .hero h1{
+    font-size:38px;
+    white-space:normal;
+  }
   .hero-subtitle{font-size:21px}
   .hero-text{font-size:16px}
   .hero-visual{display:none}
@@ -363,4 +366,17 @@ section:last-child p:last-child{margin-bottom:0}
   }
   .site-nav.open{display:flex}
   .menu-toggle{display:block}
+}
+
+@media (max-width: 520px){
+  .hero h1{
+    font-size:34px;
+    line-height:1.14;
+  }
+  .hero-subtitle{
+    font-size:20px;
+  }
+  .cta-row{
+    gap:12px;
+  }
 }
