@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
   <title id="title">OI logo final</title>
   <desc id="desc">A geometric OI logo with a green central O, three navy outer arcs, and three teal connection nodes.</desc>
-  <rect id="background" width="1000" height="1000" fill="#FFFFFF"/>
   <path id="center_o" fill="#18A07A" fill-rule="evenodd" d="
     M 730 500
     A 230 230 0 1 1 270 500

@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc" data-version="final">
   <title id="title">OI logo final master white</title>
   <desc id="desc">Final OI logo master on white background. Center O is #18A07A, outer arcs are #123D82, and nodes are #0F7A86.</desc>
-  <rect id="background" width="1000" height="1000" fill="#FFFFFF"/>
   <path id="center_o" fill="#18A07A" fill-rule="evenodd" d="
     M 730 500
     A 230 230 0 1 1 270 500

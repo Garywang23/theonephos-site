@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://theonephos.com/sitemap.xml
+LLMS: https://theonephos.com/llms.txt
