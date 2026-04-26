@@ -17,6 +17,7 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://theonephos.com/">
   <meta property="og:image" content="https://theonephos.com/assets/img/hero-supply-chain.png">
+  <link rel="preload" as="image" href="/assets/img/hero-supply-chain.webp" fetchpriority="high">
   <link rel="stylesheet" href="/assets/css/style.css">
 
   <link rel="alternate" href="https://theonephos.com/" hreflang="en">
@@ -120,7 +121,10 @@
           </div>
         </div>
         <div class="hero-visual">
-          <img src="/assets/img/hero-supply-chain.png" alt="" aria-hidden="true">
+          <picture>
+            <source srcset="/assets/img/hero-supply-chain.webp" type="image/webp">
+            <img src="/assets/img/hero-supply-chain.png" alt="" aria-hidden="true" width="1280" height="1280" decoding="async" fetchpriority="high">
+          </picture>
         </div>
       </div>
     </section>
@@ -188,10 +192,10 @@
           <p>Our phosphate chemicals are supplied for a range of industrial and food-related uses.</p>
         </div>
         <div class="card-grid four">
-          <article class="card"><h3>Industrial Use</h3><a href="/applications/industrial-use/">Learn More</a></article>
-          <article class="card"><h3>Detergents</h3><a href="/applications/detergents/">Learn More</a></article>
-          <article class="card"><h3>Water Treatment</h3><a href="/applications/water-treatment/">Learn More</a></article>
-          <article class="card"><h3>Food Processing</h3><a href="/applications/food-processing/">Learn More</a></article>
+          <article class="card"><h3>Industrial Use</h3><a href="/applications/industrial-use/">Industrial Use Applications</a></article>
+          <article class="card"><h3>Detergents</h3><a href="/applications/detergents/">Detergent Applications</a></article>
+          <article class="card"><h3>Water Treatment</h3><a href="/applications/water-treatment/">Water Treatment Applications</a></article>
+          <article class="card"><h3>Food Processing</h3><a href="/applications/food-processing/">Food Processing Applications</a></article>
         </div>
       </div>
     </section>
@@ -256,4 +260,3 @@
   <script src="/assets/js/main.js"></script>
 </body>
 </html>
-
