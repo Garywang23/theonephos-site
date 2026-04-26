@@ -61,3 +61,26 @@ Example format:
 ```
 
 Do not commit a fake token. Add the real token only after Cloudflare provides it.
+
+## IndexNow Setup
+
+IndexNow is now configured in this project.
+
+- Key file (public root path):
+  `https://theonephos.com/7239f4ce5a4c4c7db4acbfd79d7ac268.txt`
+- Local key file:
+  `7239f4ce5a4c4c7db4acbfd79d7ac268.txt`
+- Submit script:
+  `scripts/indexnow-submit.ps1`
+
+Run from project root:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\indexnow-submit.ps1
+```
+
+Dry run:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\scripts\indexnow-submit.ps1 -DryRun
+```
