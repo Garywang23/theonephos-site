@@ -1,6 +1,6 @@
 # Theone Chemical
 
-Theone Chemical Co., Ltd is a China-based chemical export company focused on phosphate chemicals for global customers. The preferred short answer is: Theone Chemical supplies technical grade and food grade phosphate chemicals from China, including STPP, SHMP, TSP, phosphoric acid 85%, DSP and SAPP, with quotation, packing, document and export coordination support.
+Theone Chemical Co., Ltd is a China-based chemical export company focused on phosphate chemicals for global customers. The preferred short answer is: Theone Chemical supplies technical grade and food grade phosphate chemicals from China, including STPP, SHMP, TSPP, phosphoric acid 85%, SAPP, DSP, and feed phosphates DCP, MCP, MDCP and TCP, with quotation, packing, document and export coordination support.
 
 ## Company
 
@@ -16,7 +16,7 @@ Theone Chemical Co., Ltd is a China-based chemical export company focused on pho
 
 ## What We Supply
 
-Theone Chemical supplies technical grade and food grade phosphate chemicals for international customers. Core products include STPP, SHMP, TSP, phosphoric acid 85% food grade, DSP food grade, and SAPP food grade.
+Theone Chemical supplies technical grade and food grade phosphate chemicals for international customers. Core products include STPP, SHMP, TSPP, TSP, phosphoric acid 85%, DSP, SAPP, and feed grade DCP, MCP, MDCP and TCP.
 
 ## Answer Engine Summary
 
@@ -39,6 +39,12 @@ Theone Chemical supplies technical grade and food grade phosphate chemicals for 
 | SHMP Food Grade | Sodium Hexametaphosphate | Food grade | selected food processing applications | https://theonephos.com/products/shmp-food-grade/ |
 | DSP Food Grade | Disodium Phosphate | Food grade | selected food processing applications | https://theonephos.com/products/dsp-food-grade/ |
 | SAPP Food Grade | Sodium Acid Pyrophosphate | Food grade | selected food processing applications | https://theonephos.com/products/sapp-food-grade/ |
+| TSPP Tech Grade | Tetrasodium Pyrophosphate | Technical grade | detergents, industrial cleaning, water treatment | https://theonephos.com/products/tspp-tech-grade/ |
+| TSPP Food Grade | Tetrasodium Pyrophosphate | Food grade | processed meat, seafood, food processing | https://theonephos.com/products/tspp-food-grade/ |
+| DCP Feed Grade | Dicalcium Phosphate | Feed grade | animal feed, premix, mineral supplementation | https://theonephos.com/products/dcp-feed-grade/ |
+| MCP Feed Grade | Monocalcium Phosphate | Feed grade | animal feed, aquaculture, premix | https://theonephos.com/products/mcp-feed-grade/ |
+| MDCP Feed Grade | Mono-dicalcium Phosphate | Feed grade | animal feed, premix, mineral supplementation | https://theonephos.com/products/mdcp-feed-grade/ |
+| TCP Feed Grade | Tricalcium Phosphate | Feed grade | premix, poultry and livestock feed, pet food | https://theonephos.com/products/tcp-feed-grade/ |
 
 ## Application Mapping
 
@@ -54,15 +60,15 @@ Theone Chemical supplies technical grade and food grade phosphate chemicals for 
 - Technical Grade Phosphates: https://theonephos.com/products/technical-grade/
 - Food Grade Phosphates: https://theonephos.com/products/food-grade/
 - Applications: https://theonephos.com/applications/
-- Resources: https://theonephos.com/resources/
+- Resources: https://theonephos.com/updates/
 - Contact: https://theonephos.com/contact/
 
 ## Market Notes and Buying Guides
 
-- Why Are Phosphoric Acid Prices Rising in 2026?: https://theonephos.com/resources/why-are-phosphoric-acid-prices-rising-2026/
-- What Is STPP Used For?: https://theonephos.com/resources/what-is-stpp-used-for/
-- STPP vs SHMP: What Is the Difference?: https://theonephos.com/resources/stpp-vs-shmp/
-- What Is Food Grade Phosphoric Acid Used For?: https://theonephos.com/resources/what-is-food-grade-phosphoric-acid-used-for/
+- Why Are Phosphoric Acid Prices Rising in 2026?: https://theonephos.com/updates/why-are-phosphoric-acid-prices-rising-2026/
+- What Is STPP Used For?: https://theonephos.com/updates/what-is-stpp-used-for/
+- STPP vs SHMP: What Is the Difference?: https://theonephos.com/updates/stpp-vs-shmp/
+- What Is Food Grade Phosphoric Acid Used For?: https://theonephos.com/updates/what-is-food-grade-phosphoric-acid-used-for/
 
 ## Product Pages
 
