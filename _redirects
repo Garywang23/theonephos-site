@@ -1,0 +1,2 @@
+/resources/ /updates/ 301
+/resources/* /updates/:splat 301
