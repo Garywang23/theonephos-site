@@ -388,3 +388,13 @@ section:last-child p:last-child{margin-bottom:0}
 .float-inquiry{position:fixed;right:22px;bottom:22px;z-index:60;background:var(--primary,#0b5fa5);color:#fff;font-weight:700;font-size:16px;padding:13px 26px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(11,95,165,.35);opacity:0;pointer-events:none;transform:translateY(8px);transition:opacity .25s,transform .25s}
 .float-inquiry.show{opacity:1;pointer-events:auto;transform:none}
 @media (max-width:640px){.float-wa{right:16px;bottom:82px}.float-inquiry{right:16px;bottom:16px;padding:12px 22px}}
+
+/* Updates article list */
+.article-list{list-style:none;margin:26px 0 8px;padding:0}
+.article-list li{padding:18px 4px;border-bottom:1px solid #e3e9f0}
+.article-list li:first-child{border-top:1px solid #e3e9f0}
+.article-list .a-meta{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:#0e7c86;font-weight:700}
+.article-list h3{margin:4px 0 6px;font-size:20px}
+.article-list h3 a{color:#12263a;text-decoration:none}
+.article-list h3 a:hover{color:#0b5fa5}
+.article-list p{margin:0;color:#5a6b7d}
