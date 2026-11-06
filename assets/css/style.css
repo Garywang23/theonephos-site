@@ -398,3 +398,11 @@ section:last-child p:last-child{margin-bottom:0}
 .article-list h3 a{color:#12263a;text-decoration:none}
 .article-list h3 a:hover{color:#0b5fa5}
 .article-list p{margin:0;color:#5a6b7d}
+
+/* Inquiry form (contact page) */
+.inquiry-form{margin:18px 0 6px;max-width:880px}
+.inquiry-form label{display:block;font-weight:600;color:#12263a;margin:0 0 12px}
+.inquiry-form input,.inquiry-form textarea{display:block;width:100%;margin-top:6px;padding:10px 12px;border:1px solid #c9d4e0;border-radius:8px;font:inherit;font-weight:400;background:#fff;box-sizing:border-box}
+.inquiry-form .f-row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:640px){.inquiry-form .f-row{grid-template-columns:1fr}}
+.inquiry-form .hp-field{position:absolute;left:-9999px;width:1px;height:1px;opacity:0}
