@@ -435,3 +435,8 @@ section:last-child p:last-child{margin-bottom:0}
 
 /* Partner factory logo wall: all grayscale */
 .logo-wall img{filter:grayscale(1)}
+
+/* Footer text block (replaces footer logo) + friend links row */
+.footer-grid > div:first-child{flex-direction:column;justify-content:flex-start}
+.footer-slogan{font-size:19px;font-weight:800;color:#12263a;line-height:1.35;margin:0 0 10px}
+.friend-row{display:flex;align-items:center;gap:14px}
