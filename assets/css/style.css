@@ -409,3 +409,17 @@ section:last-child p:last-child{margin-bottom:0}
 
 /* Floating buttons: always visible (no scroll trigger) */
 .float-wa,.float-inquiry{opacity:1 !important;pointer-events:auto !important;transform:none !important}
+
+/* Footer contact strip (icon row at the bottom of the footer) */
+.footer-contact{display:flex;flex-wrap:wrap;gap:16px 40px;padding:20px 0 4px;margin-top:6px;border-top:1px solid #e3e9f0}
+.fc-item{display:flex;align-items:center;gap:12px}
+.fc-ic{width:44px;height:44px;flex:0 0 auto;border:1.5px solid #b9c9d8;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#33506e}
+.fc-ic svg{width:20px;height:20px}
+.fc-tx small{display:block;color:#5a6b7d;font-size:12.5px}
+.fc-tx strong{display:block;color:#12263a;font-size:15.5px;font-weight:700}
+.fc-tx a{color:#12263a;text-decoration:none}
+.fc-tx a:hover{color:#0b5fa5}
+
+.fc-social{margin-left:auto;display:flex;gap:12px;align-items:center}
+.fc-social a{text-decoration:none}
+.fc-social a:hover{color:#0b5fa5;border-color:#0b5fa5}
